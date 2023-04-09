@@ -13,7 +13,7 @@
 * 作業連結區
     <br />  [0313 prefix sum & strings](https://youtu.be/wIfLEZjFFNM)
     <br />  [0327](https://youtu.be/ibqTqijR8cA)
-    <br />  [0410](https://youtu.be/llKFpD8EoDQ)
+    <br />  [0410 greedy & tree](https://youtu.be/llKFpD8EoDQ)
 
 * 專題連結區
    
