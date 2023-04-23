@@ -14,6 +14,7 @@
     <br />  [0313 prefix sum & strings](https://youtu.be/wIfLEZjFFNM)
     <br />  [0327](https://youtu.be/ibqTqijR8cA)
     <br />  [0410 greedy & tree](https://youtu.be/llKFpD8EoDQ)
+    <br />  [0424 binary search](https://youtu.be/3oH08toH6vw)
 
 * 專題連結區
    
