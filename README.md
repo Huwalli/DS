@@ -15,6 +15,7 @@
     <br />  [0327](https://youtu.be/ibqTqijR8cA)
     <br />  [0410 greedy & tree](https://youtu.be/llKFpD8EoDQ)
     <br />  [0424 binary search](https://youtu.be/3oH08toH6vw)
+    <br />  [0508 BFS,DFS,Hashmap](https://youtu.be/d5RixMHJu2U)
 
 * 專題連結區
    
